@@ -1,0 +1,10 @@
+This repository does not contain third-party benchmark prompts, model responses, model weights, or human annotation records.
+
+The study uses upstream benchmark resources that must be obtained directly from their maintainers:
+
+- FastChat and MT-Bench: Apache License 2.0
+- AlpacaEval: Apache License 2.0
+- WildBench code: Apache License 2.0
+- WildBench dataset: CC BY 4.0, according to its dataset card
+
+These notices identify external resources used by the research. They do not change the Apache License 2.0 that applies to the original code and aggregate outputs in this repository.

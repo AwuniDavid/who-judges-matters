@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated preprint."
+title: "Who Judges Matters: Measuring Family-Conditioned Preference in LLM-as-Judge Panels"
+type: software
+authors:
+  - family-names: Awuni
+    given-names: David Ababio
+  - family-names: Achenie
+    given-names: Luke E. K.
+  - family-names: Partey
+    given-names: Benjamin Tei
+  - family-names: Owusu
+    given-names: Elvis Gyasi
+  - family-names: Sowah
+    given-names: Nii-Nai Derrick
+date-released: 2026-09-17
+license: Apache-2.0
