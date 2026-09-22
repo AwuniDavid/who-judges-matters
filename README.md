@@ -1,6 +1,6 @@
 # Who Judges Matters
 
-Reproducibility materials for the preprint **Who Judges Matters: Measuring Family-Conditioned Preference in LLM-as-Judge Panels**.
+Reproducibility materials for [**Who Judges Matters: Measuring Family-Conditioned Preference in LLM-as-Judge Panels**](https://arxiv.org/abs/2609.17857), arXiv:2609.17857 [cs.CL].
 
 ## Summary
 
@@ -36,7 +36,9 @@ If you use these materials, please cite the associated preprint:
   title={Who Judges Matters: Measuring Family-Conditioned Preference in LLM-as-Judge Panels},
   author={Awuni, David Ababio and Achenie, Luke E. K. and Partey, Benjamin Tei and Owusu, Elvis Gyasi and Sowah, Nii-Nai Derrick},
   year={2026},
-  note={Preprint submitted to arXiv}
+  eprint={2609.17857},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL}
 }
 ```
 

@@ -15,3 +15,6 @@ authors:
     given-names: Nii-Nai Derrick
 date-released: 2026-09-17
 license: Apache-2.0
+identifiers:
+  - type: doi
+    value: 10.48550/arXiv.2609.17857
